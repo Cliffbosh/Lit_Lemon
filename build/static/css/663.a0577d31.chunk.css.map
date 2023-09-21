@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/663.a0577d31.chunk.css","mappings":"AAOA,oDACI,aACJ","sources":["components/Footer.css"],"sourcesContent":[".foot-center:hover {\n    color: #F4CE14;\n}\n\n.footer-block:hover {\n    color: #F4CE14;\n}\n.block:hover {\n    color: #F4CE14;\n}"],"names":[],"sourceRoot":""}
