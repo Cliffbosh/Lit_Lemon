@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkLittle_lemon=self.webpackChunkLittle_lemon||[]).push([[193],{9193:function(e,n,t){t.r(n);var c=t(184);n.default=function(){return(0,c.jsx)(c.Fragment,{children:(0,c.jsxs)("section",{className:"container",children:[(0,c.jsx)("h1",{children:"404"}),(0,c.jsx)("p",{children:"We can't find what you are looking for"})]})})}}}]);
+//# sourceMappingURL=193.6bb6bbf3.chunk.js.map
